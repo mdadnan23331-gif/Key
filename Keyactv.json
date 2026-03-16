@@ -26,6 +26,15 @@
       "status": "inactive",
       "created_date": "2024-01-01",
       "max_devices": 1
+    },
+    {
+      "key": "Noob",
+      "device_id": "b20e0164-ea9c-492f-bc8c-b8f00bfa163b",
+      "expiry_date": "2028-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2026-03-18",
+      "max_devices": 1
     }
   ]
 }
