@@ -28,11 +28,11 @@
       "max_devices": 1
     },
     {
-      "key": "Noob",
+      "key": "NOOB",
       "device_id": "b20e0164-ea9c-492f-bc8c-b8f00bfa163b",
       "expiry_date": "2028-12-31",
-      "active": false,
-      "status": "inactive",
+      "active": "true",
+      "status": "active",
       "created_date": "2026-03-16",
       "max_devices": 1
     }
